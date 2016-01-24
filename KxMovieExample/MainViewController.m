@@ -32,18 +32,18 @@
 
 //            @"http://eric.cast.ro/stream2.flv",
 //            @"http://liveipad.wasu.cn/cctv2_ipad/z.m3u8",
-            @"http://www.wowza.com/_h264/BigBuckBunny_175k.mov",
-            // @"http://www.wowza.com/_h264/BigBuckBunny_115k.mov",
-            @"rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov",
-            @"http://santai.tv/vod/test/test_format_1.3gp",
-            @"http://santai.tv/vod/test/test_format_1.mp4",
+//            @"http://www.wowza.com/_h264/BigBuckBunny_175k.mov",
+//             @"http://www.wowza.com/_h264/BigBuckBunny_115k.mov",
+//            @"rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov",
+//            @"http://santai.tv/vod/test/test_format_1.3gp",
+//            @"http://santai.tv/vod/test/test_format_1.mp4",
         
             //@"rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov",
             //@"http://santai.tv/vod/test/BigBuckBunny_175k.mov",
         
-//            @"rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt",
-//            @"rtmp://ucaster.eu:1935/live/_definst_/discoverylacajatv",
-//            @"rtmp://edge01.fms.dutchview.nl/botr/bunny.flv"
+            @"rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt",
+            @"rtmp://ucaster.eu:1935/live/_definst_/discoverylacajatv",
+            @"rtmp://192.168.18.222:1935/live/bbb.mp4"
         ];
         
     }
